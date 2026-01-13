@@ -1,0 +1,5 @@
+Peso: 70.0 kg
+Altura: 1.77 m
+IMC: 22,34
+Classificação: Peso normal
+------------------------------
